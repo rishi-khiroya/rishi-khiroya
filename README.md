@@ -3,8 +3,6 @@
 ### 🔭 I’m currently working on: 
 
 - **coai** - a project that aims to provide a solution for annotating medical data. It allows users to annotate medical images, documents, and other types of data with relevant information for research, diagnosis, and treatment purposes.
-- [**Job/Internship Application Tracker**](https://github.com/rishi-khiroya/application-tracker) - a convenient way to track application progress, making use of browser extensions to semi-automatically identify when an application has been completed and scrape as much relevant data as possible. 
-- [**Advanced Sample Manager**](https://github.com/rishi-khiroya/sample-manager) - an advanced audio sample manager aimed mostly towards music producers to help organise, structure, store and share sample libraries, using a machine learning model to classify and categorise audio samples, as well as automatically assign labels pertaining to different semantics: i.e. mood, tempo, etc.
 
 [//]: <> (### 👯 I’m looking to collaborate on<br>)
 [//]: <> (### 🤝 I’m looking for help with<br>)
