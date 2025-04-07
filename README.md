@@ -2,23 +2,19 @@
 
 ### 🔭 I’m currently working on: 
 
-- **coai** - a project that aims to provide a solution for annotating medical data. It allows users to annotate medical images, documents, and other types of data with relevant information for research, diagnosis, and treatment purposes.
+- **The Evidence Company** - a startup focusing on bringing AI-based tools to healthcare
+- [**SMPLRX**](https://github.com/SMPLRX) - a modular ecosystem for audio creators and developers, offering open-source tools for labeling, classifying, and generating audio samples — alongside proprietary software for production workflows
 
 [//]: <> (### 👯 I’m looking to collaborate on<br>)
 [//]: <> (### 🤝 I’m looking for help with<br>)
 
-### 🌱 I’m currently learning:<br>
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white) 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) 
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
+[//]: <> (### 🌱 I’m currently learning:<br>
 
 [//]: <> (### 💬 Ask me about<br>)
 [//]: <> (### ⚡ Fun fact)
 
 # 💻 Tech Stack:
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
