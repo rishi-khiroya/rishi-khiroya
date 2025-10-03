@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Khiroya</h1>
-<h3 align="center">A software developer at S&P Global Market Intelligence. I recently graudated from my MEng Computing degree at Imperial College London, and am now exploring the professional worlds of Finance and Tech.</h3>
+<h3 align="center">A software developer at S&P Global Market Intelligence. I recently graduated from my MEng Computing degree at Imperial College London, and am now exploring the professional worlds of Finance and Tech.</h3>
 
 ---
 
